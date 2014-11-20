@@ -1,3 +1,5 @@
-__author__ = 'M2M'
+__author__ = 'Lucas Amaral'
 
-print('Hello World')
+print ("Hello World")
+
+print('Lucas Amaral')
