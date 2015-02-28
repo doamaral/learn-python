@@ -1,7 +1,5 @@
 __author__ = 'Lucas'
 import random
-
-
 choice = input("Deseja jogar os dados?(y/n): ")
 
 while choice == "y":
