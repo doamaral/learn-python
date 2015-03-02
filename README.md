@@ -1,2 +1,2 @@
 # LearnPython
-Arquivos com scripts que relatam aminha aventura na codificação com Python
+Arquivos com scripts que relatam a minha aventura na codificação com Python
