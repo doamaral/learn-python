@@ -8,9 +8,11 @@ print("Operações Real x Inteiro = Real: 5.0/2 + 3 = ", 5.0/2+3)
 
 my_string = "palavra"
 
+val = 10
+
 print("a "+ my_string + " é string")
 
-print("A string '%s' tem tamanho %d" % (my_string, len(my_string)))
+print("%d - A string '%s' tem tamanho %d" % (val, my_string, len(my_string)))
 
 for char in my_string:
     print(char)
