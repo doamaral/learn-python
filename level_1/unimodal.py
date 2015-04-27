@@ -10,4 +10,4 @@ def unimodal(v, i, f):
 
 vetor = [1, 2, 3, 4, 5, 4, 1]
 
-print(vetor[unimodal(vetor, 0, 6)])
+print(vetor[unimodal(vetor, 0, len(vetor)-1)])
