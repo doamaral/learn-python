@@ -12,5 +12,6 @@ def menor(vetor, i, f):
         return m2
 
 v = [112, 100, 3, 1, 80, 105]
+vet = [2, 10, 30, 41, 85, 15]
 
-print(menor(v, 0, 5))
+print(menor(vet, 0, 5))
