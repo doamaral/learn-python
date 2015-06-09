@@ -13,3 +13,6 @@ class Pessoa:
 
     def getNome(self):
         return self._nome
+
+    def isAlive(self):
+        return True
